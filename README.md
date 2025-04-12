@@ -1,2 +1,0 @@
-# Paypal
-paypal .login
